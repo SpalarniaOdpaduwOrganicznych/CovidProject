@@ -2,3 +2,4 @@ My project on data analysis, which focuses on the Coronavirus spreading and fata
 To begin with, I cleaned the data using SQL, ensuring that the data was free from any errors or inconsistencies. The cleaned data was then imported into Tableau Public, where I used various visualization tools to create interactive dashboards and charts that present the data in a clear and concise manner.
 Through the use of these visualization tools, I have been able to gain a deeper insight into the patterns and trends associated with the Coronavirus outbreak. By analyzing the data, I have been able to identify the areas that have been most affected by the virus.
 Overall, this project has been a valuable exercise in data analysis and visualization, and has provided me with a greater understanding of the power of these tools in helping to understand complex data.
+![image](https://github.com/SpalarniaOdpaduwOrganicznych/CovidProject/assets/116558165/f3253c97-ed97-435e-b107-04f058fac0dc)
